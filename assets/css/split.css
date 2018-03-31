@@ -295,3 +295,20 @@ video.video {
   line-height: 15px !important;
   margin-bottom: 7px  !important;
 }
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #4b5b63;
+}
+
+::-webkit-scrollbar-track {
+  background: #00000000;
+}
+
+::-webkit-scrollbar-button {
+
+}
