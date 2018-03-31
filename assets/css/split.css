@@ -3,11 +3,10 @@ Template Name: Split
 Author: One Page Love
 Author URI: https://onepagelove.com
 Template URI: https://onepagelove.com/split
-Description: Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content.
 */
 /* -- CSS Reset -- */
-@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
-@import url("https://fonts.googleapis.com/css?family=Lora");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+@import url("https://cdn.rawgit.com/rastikerdar/vazir-font/v18.0.0/dist/font-face.css");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -110,10 +109,14 @@ body.page-template-page-fullsingle-split {
   letter-spacing: -0.2px;
   color: #848d96;
   -webkit-animation: fadein 2s;
-          animation: fadein 2s; }
-  body.page-template-page-fullsingle-split p {
-    color: #848d96; }
-
+  animation: fadein 2s;
+}
+body.page-template-page-fullsingle-split p {
+    color: #848d96;
+}
+.vazir-font {
+      font-family: vazir, sans-serif;
+}
 .fs-split {
   width: 100vw;
   height: 100vh;
@@ -170,19 +173,21 @@ body.page-template-page-fullsingle-split {
   line-height: 80px;
   letter-spacing: -2px; }
   .split-intro h1 {
-    font-weight: 400;
+    font-weight: 600;
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 24px;
+    margin-bottom: 0px;
+    letter-spacing: 2.5px;
     line-height: 16px;
-    margin-bottom: 40px;
-    letter-spacing: 0.4px;
-    color: #47bec7; }
+    color: #47bec7;
+}
   .split-intro .tagline {
     color: #CCCCCC; }
 
 .split-bio {
   padding: 40px 0 40px 0;
-  font-family: 'Lora', serif; }
+  font-size: 17px;
+}
   @media (max-width: 1200px) {
     .split-bio {
       padding: 30px 0; } }
