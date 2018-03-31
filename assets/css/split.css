@@ -153,7 +153,7 @@ body.page-template-page-fullsingle-split p {
     overflow: auto; }
     @media (max-width: 800px) {
       .split-intro {
-        font-size: 50px;
+        font-size: 50px !important;
     }
       .fs-split .split-content {
         width: 100%;
