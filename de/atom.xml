@@ -5,9 +5,9 @@
   <subtitle>Geek, mens en nog wat andere dingen</subtitle>
   <link href="/de/atom.xml" rel="self"/>
   
-  <link href="https://mehrad77.github.io/de/"/>
+  <link href="https://mehrad.js.org/de/"/>
   <updated>2018-03-30T13:51:37.390Z</updated>
-  <id>https://mehrad77.github.io/de/</id>
+  <id>https://mehrad.js.org/de/</id>
   
   <author>
     <name>Mehrad Rousta</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://mehrad77.github.io/de/2018/03/30/hello-world/"/>
-    <id>https://mehrad77.github.io/de/2018/03/30/hello-world/</id>
+    <link href="https://mehrad.js.org/de/2018/03/30/hello-world/"/>
+    <id>https://mehrad.js.org/de/2018/03/30/hello-world/</id>
     <published>2018-03-30T13:51:37.390Z</published>
     <updated>2018-03-30T13:51:37.390Z</updated>
     

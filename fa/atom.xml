@@ -5,9 +5,9 @@
   <subtitle>گیک، فلان، بیسار و چندتا چیز دیگر</subtitle>
   <link href="/fa/atom.xml" rel="self"/>
   
-  <link href="https://mehrad77.github.io/fa/"/>
+  <link href="https://mehrad.js.org/fa/"/>
   <updated>2018-03-30T13:51:37.390Z</updated>
-  <id>https://mehrad77.github.io/fa/</id>
+  <id>https://mehrad.js.org/fa/</id>
   
   <author>
     <name>مهراد روستا</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://mehrad77.github.io/fa/2018/03/30/hello-world/"/>
-    <id>https://mehrad77.github.io/fa/2018/03/30/hello-world/</id>
+    <link href="https://mehrad.js.org/fa/2018/03/30/hello-world/"/>
+    <id>https://mehrad.js.org/fa/2018/03/30/hello-world/</id>
     <published>2018-03-30T13:51:37.390Z</published>
     <updated>2018-03-30T13:51:37.390Z</updated>
     

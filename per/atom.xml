@@ -5,9 +5,9 @@
   <subtitle>Geek, folān, bisār va cand ciz digar.</subtitle>
   <link href="/per/atom.xml" rel="self"/>
   
-  <link href="https://mehrad77.github.io/per/"/>
+  <link href="https://mehrad.js.org/per/"/>
   <updated>2018-03-30T13:51:37.390Z</updated>
-  <id>https://mehrad77.github.io/per/</id>
+  <id>https://mehrad.js.org/per/</id>
   
   <author>
     <name>Mehrād Rustā</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://mehrad77.github.io/per/2018/03/30/hello-world/"/>
-    <id>https://mehrad77.github.io/per/2018/03/30/hello-world/</id>
+    <link href="https://mehrad.js.org/per/2018/03/30/hello-world/"/>
+    <id>https://mehrad.js.org/per/2018/03/30/hello-world/</id>
     <published>2018-03-30T16:00:45.457Z</published>
     <updated>2018-03-30T13:51:37.390Z</updated>
     
