@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mehrad.js.org/en/2018/04/01/hello-world/</loc>
+    <loc>https://mehrad.js.org/en/2018/04/05/test/</loc>
     
-    <lastmod>2018-04-01T15:05:21.348Z</lastmod>
+    <lastmod>2018-04-05T19:05:45.668Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mehrad.js.org/en/2018/04/05/hello-world/</loc>
+    
+    <lastmod>2018-04-05T19:05:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mehrad.js.org/en/search/index.html</loc>
+    
+    <lastmod>2018-04-04T21:36:14.209Z</lastmod>
     
   </url>
   
