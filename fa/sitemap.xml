@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mehrad.js.org/fa/search/index.html</loc>
+    <loc>https://mehrad.js.org/fa/dairy/%D9%87%D9%88%D8%A7-%D8%B1%D8%A7-%D8%A7%D8%B2-%D9%85%D9%86-%D8%A8%DA%AF%DB%8C%D8%B1%D8%8C-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B1%D8%A7-%D9%86%D9%87/</loc>
     
-    <lastmod>2018-04-05T20:23:46.212Z</lastmod>
+    <lastmod>2018-04-07T22:34:26.355Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mehrad.js.org/fa/2018/03/30/hello-world/</loc>
+    <loc>https://mehrad.js.org/fa/about/index.html</loc>
     
-    <lastmod>2018-03-30T13:51:37.390Z</lastmod>
+    <lastmod>2018-04-07T22:28:08.258Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mehrad.js.org/fa/search/index.html</loc>
+    
+    <lastmod>2018-04-05T20:23:46.212Z</lastmod>
     
   </url>
   
