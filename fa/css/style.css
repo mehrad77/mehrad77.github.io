@@ -1077,6 +1077,13 @@ body {
 .github-emoji {
   display: inline !important;
 }
+td.gutter {
+  text-align: right;
+  float: left;
+}
+td.code {
+  float: right;
+}
 article header .posttitle {
   margin-top: 0;
   margin-bottom: 0;
@@ -1497,9 +1504,14 @@ code {
 }
 .highlight table {
   width: auto;
+  float: left;
 }
 .highlight td.gutter {
   text-align: right;
+  float: left;
+}
+.highlight td.code {
+  float: right;
 }
 .highlight .line {
   height: 22px;
