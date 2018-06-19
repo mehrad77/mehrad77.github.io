@@ -1,0 +1,28 @@
+{
+  "name": "mehrad77-blog",
+  "version": "0.0.1",
+  "private": true,
+  "description": "mehrad77 personal blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "bash publish.sh",
+    "sync-theme": "bash sync-theme.sh",
+    "generate-all":"bash generate-all.sh",
+    "admin-en": "cd en && hexo server -d",
+    "admin-fa": "cd fa && hexo server -d",
+    "admin-de": "cd de && hexo server -d",
+    "admin-per": "cd per && hexo server -d",
+    "deploy": "npm run-script generate-all && npm run-script publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrad77/mehrad77.github.io-dev.git"
+  },
+  "author": "Mehrad Rousta <mehrad77@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehrad77/mehrad77.github.io-dev/issues"
+  },
+  "homepage": "https://github.com/mehrad77/mehrad77.github.io-dev#readme"
+}

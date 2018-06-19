@@ -1,0 +1,12 @@
+[
+    {
+       "name":"Sample Project",
+       "url":"https://hexo.io/",
+       "desc":"A fast, simple & powerful blog framework"
+    },
+    {
+       "name":"An other Awesome Project",
+       "url":"http://fontawesome.io/",
+       "desc":"The iconic font and CSS toolkit"
+    }
+]
